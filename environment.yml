@@ -4,7 +4,6 @@ channels:
   - https://prefix.dev/conda-forge
 dependencies:
   - pip
-  - requests
   - ipycanvas
   - ipywidgets
   - ipyleaflet
@@ -18,3 +17,5 @@ dependencies:
   - pydot
   - simpy
   - sympy
+  - requests
+  
