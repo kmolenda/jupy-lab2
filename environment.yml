@@ -3,6 +3,9 @@ channels:
   - https://prefix.dev/emscripten-forge-dev
   - https://prefix.dev/conda-forge
 dependencies:
+  # Kernele
+  - xeus-python
+  # Python – podstawowy stack data science
   - pip
   - ipycanvas
   - ipywidgets
