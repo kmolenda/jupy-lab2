@@ -3,7 +3,18 @@ channels:
   - https://repo.prefix.dev/emscripten-forge-dev
   - https://repo.prefix.dev/conda-forge
 dependencies:
-  - xeus-python
   - pip
-  - numpy
+  - requests
   - ipycanvas
+  - ipywidgets
+  - ipyleaflet
+  - jinja2
+  - numpy  
+  - matplotlib
+  - pandas
+  - scipy
+  - plotly
+  - networkx
+  - pydot
+  - simpy
+  - sympy
