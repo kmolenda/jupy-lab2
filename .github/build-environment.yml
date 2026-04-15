@@ -10,4 +10,5 @@ dependencies:
   - notebook >=7.5
   - jupyterlab-myst
   - jupyterlite-terminal
-  - jupyterlab-open-url-parameter
+  - pip:
+     - jupyterlab-open-url-parameter
