@@ -5,6 +5,7 @@ channels:
 dependencies:
   # Kernele
   - xeus-python
+  - xeus-sqlite
   # Python – podstawowy stack data science
   - pip
   - ipycanvas
