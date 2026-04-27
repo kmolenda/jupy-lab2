@@ -1,0 +1,19 @@
+{
+  "LiteBuildConfig": {
+    "contents": ["files"],
+    "extra_file_types": {
+      "html-text": {
+        "name": "html-text",
+        "extensions": [".html", ".htm"],
+        "mimeTypes": ["text/html"],
+        "fileFormat": "text"
+      },
+      "json-text": {
+        "name": "json-text",
+        "extensions": [".json"],
+        "mimeTypes": ["application/json"],
+        "fileFormat": "text"
+      }
+    }
+  }
+}
